@@ -1,7 +1,5 @@
 # RecipeRoster
 
-# RecipeRoster
-
 RecipeRoster is a versatile meal planning and grocery shopping app designed to simplify the culinary experience for busy college students and young parents. Our goal is to offer a convenient, affordable, and customizable solution for your meal planning needs.
 
 ## Features
